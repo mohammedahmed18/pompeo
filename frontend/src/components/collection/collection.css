@@ -1,0 +1,106 @@
+.collection {
+  padding: 5rem 0;
+}
+
+.collection .heading {
+  text-align: center;
+  margin: 3rem 0;
+}
+
+.collection .heading h5 {
+  margin-bottom: 0px;
+  font-family: Poppins, sans-serif;
+  color: #d77474;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.collection .heading h2 {
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 500;
+}
+
+.collection .parent {
+  padding: 0.7rem;
+}
+
+.collection .parent .child {
+  text-decoration: none;
+}
+
+.collection .parent .child:hover .content {
+  border-bottom: 1px solid #ac1313;
+}
+
+.collection .parent .child img {
+  width: 100%;
+}
+
+.collection .parent .child img:hover {
+  transform: scale(1.02, 1.02);
+  -webkit-transform: scale(1.02, 1.02);
+  -moz-transform: scale(1.02, 1.02);
+  -ms-transform: scale(1.02, 1.02);
+  -o-transform: scale(1.02, 1.02);
+}
+
+.collection .parent .child .content {
+  padding: 1rem 0;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.collection .parent .child .content:hover {
+  border-bottom: 1px solid #ac1313;
+}
+
+.collection .parent .child .content h6 {
+  -webkit-transition: color 400ms ease;
+  transition: color 400ms ease;
+  color: #6c6c6c;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+.collection .parent .child .content span {
+  margin-top: 0px;
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.collection .btn {
+  text-align: center;
+  width: 100%;
+  padding-top: 3rem;
+  cursor: auto;
+}
+
+.collection .btn .link {
+  text-decoration: none;
+  margin-top: 2rem;
+  padding: 20px 40px;
+  border-color: #000;
+  background-color: #ac1313;
+  font-family: Poppins, sans-serif;
+  color: #fff;
+  line-height: 22px;
+}
+
+.collection .btn .link:hover {
+  border-color: #53d7db;
+  background-color: #000;
+  -webkit-transform: translate(0px, -6px);
+  transform: translate(0px, -6px);
+  color: #fff;
+}
+/*# sourceMappingURL=collection.css.map */

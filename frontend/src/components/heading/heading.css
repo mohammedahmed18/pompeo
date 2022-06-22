@@ -1,0 +1,27 @@
+header {
+  background-image: url("../../../public/assets/img/aboutheading.jpg");
+  background-position: center center;
+  background-size: cover;
+  padding: 5rem 0;
+}
+
+header .header-content {
+  margin: 5rem 0;
+}
+
+header .header-content h1 {
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 44px;
+  line-height: 54px;
+  font-weight: 500;
+}
+
+header .header-content p {
+  margin-top: 1rem;
+  width: 60%;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #6c6c6c;
+  font-size: 14px;
+}
+/*# sourceMappingURL=heading.css.map */

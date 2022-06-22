@@ -1,0 +1,74 @@
+.lastestnwes{
+    padding: 3rem 0;
+        img{
+            margin: auto;
+            width: 80px;
+            height: 80px;
+            margin-bottom: 40px;
+            border-radius: 100%;
+            background-color: #ebb96a;
+            background-size: 38px;
+            padding: 1rem;
+        }
+    h4{
+        margin-bottom: 0px;
+        font-family: Poppins, sans-serif;
+        color: #d77474;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        text-align: center;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+    h2{
+        font-family: Poppins, sans-serif;
+        color: #000;
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 500;
+        span{
+            font-family: 'Playfair Display', sans-serif;
+            color: #ac1313;
+            font-size: 68px;
+            line-height: 68px;
+            font-weight: 400;
+        }
+    }
+    .subscribe-box{
+        padding: 2rem 0;
+        input{
+            border-style: solid;
+            border-color:#ebebeb;
+            background-color: hsla(0, 0%, 85.9%, 0.1);
+            background-image: url("../../../public/assets/img/subscribe.png");
+            background-position: 9px 57%;
+            background-size: 20px;
+            background-repeat: no-repeat;
+            color: #6c6c6c;
+            font-size: 13px;
+            line-height: 23px;
+            padding: 1rem 5rem;
+            outline: blue;
+            }
+            button{
+                padding: 1rem 3rem;
+                background-color: #000;
+                -webkit-transition: all 400ms ease;
+                transition: all 400ms ease;
+                color: #fff;
+                font-size: 12px;
+                text-align: center;
+                letter-spacing: 1px;
+                &:hover{
+                    background-color: #ac1313;
+                    color: #fff;
+                    border: none;
+                }
+            }
+    }
+    
+    input{
+
+    }
+}

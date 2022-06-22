@@ -1,0 +1,42 @@
+.footer {
+  background-color: rgba(219, 219, 219, 0.1);
+  line-height: 24px;
+  text-align: center;
+  border: 1px solid #ebebeb;
+  padding: 4rem 0;
+}
+
+.footer h3 {
+  font-family: Pacifico, sans-serif;
+  font-size: 34px;
+  line-height: 40px;
+  font-weight: 700;
+  margin: 1rem 0;
+}
+
+.footer p {
+  margin-bottom: 2rem;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #6c6c6c;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.footer h4 {
+  margin-bottom: 20px;
+  font-family: Poppins, sans-serif;
+  font-size: 13px;
+  line-height: 23px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  display: block;
+}
+
+.footer h6 {
+  margin-bottom: 10px;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #6c6c6c;
+  font-size: 14px;
+}
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,87 @@
+.categories{
+    padding: 3rem 0;
+    .categories-header{
+        h3{
+            font-family: Poppins, sans-serif;
+            color: #d77474;
+            font-size: 14px;
+            line-height: 24px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        h2{
+            font-family: Poppins, sans-serif;
+            color: #000;
+            font-size: 40px;
+            line-height: 50px;
+            font-weight: 500;
+        }
+        span{
+            position: relative;
+            font-family: 'Playfair Display', sans-serif;
+            color: #ac1313;
+            font-size: 68px;
+            line-height: 68px;
+            font-weight: 400;
+        }
+    }
+    .categories-body{
+        padding: 1rem 0 2rem 0;
+        .parent-one,.parent-two,.parent-three{
+            border-radius: 50%;
+            text-decoration: none;
+            margin:2rem;
+            .child{
+                border-style: solid;
+                border-width: 30px;
+                border-color: rgba(0, 0, 0, 0.05);
+                border-radius: 50%;
+                transition: box-shadow 500ms ease;
+                margin: 1.5rem 0;   
+                .title{
+                    font-family: Poppins, sans-serif;
+                    color: #fff;
+                    font-size: 14px;
+                    margin-top: 0.5rem ;
+                    letter-spacing: 2px;
+                    text-decoration: none;
+                    text-transform: uppercase;
+                    text-decoration: none;
+                }
+                img{
+                    width: 70px;
+                }
+            }
+        }
+        .parent-one{
+            .child{
+                background-color: #ebb96a;
+            }
+        }
+        .parent-two{
+            .child{
+                background-color: #f05b10;
+            }
+        }
+        .parent-three{
+            .child{
+                background-color: #a21010;
+            }
+        }
+    }
+    .categories-footer{
+        h2{
+            font-family: Poppins, sans-serif;
+            color: #000;
+            font-size: 30px;
+            line-height: 36px;
+            font-weight: 400;
+        }
+        p{
+            color: #6c6c6c;
+            line-height: 24px;
+        }
+    }
+}

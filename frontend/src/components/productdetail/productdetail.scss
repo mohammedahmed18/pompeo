@@ -1,0 +1,93 @@
+.productdetail {
+    padding: 5rem 0;
+    .img-box {
+        img {
+            width: 100%;
+        }
+    }
+
+    .content-box {
+        padding: 2rem 0 2rem 1rem;
+        h4 {
+            margin-bottom: 0px;
+            font-family: Poppins, sans-serif;
+            color: #d77474;
+            font-size: 14px;
+            line-height: 24px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        h2 {
+            margin: 1rem 0;
+            font-family: Poppins, sans-serif;
+            font-size: 24px;
+            line-height: 34px;
+            font-weight: 500;
+            font-size: 30px;
+            line-height: 40px;
+        }
+        .link {
+            color: #000;
+            span {
+                margin-left: 0.5rem;
+                transition: color 400ms ease;
+                color: rgba(12, 21, 47, 0.6);
+                font-size: 15px;
+
+                &:hover {
+                    font-family: Poppins, sans-serif;
+                    font-size: 15px;
+                    font-weight: 500;
+                }
+            }
+        }
+        h5 {
+            margin: 1.5rem 0;
+            font-family: Poppins, sans-serif;
+            font-size: 15px;
+            font-weight: 500;
+        }
+        p {
+            margin:1rem 0;
+            font-family: 'Libre Franklin', sans-serif;
+            color: #6c6c6c;
+            font-size: 14px;
+            line-height: 24px;
+        }
+        input {
+            font-family: 'Libre Franklin', sans-serif;
+            color: #858585;
+            font-weight: 400;
+            background-color: #fafafa;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            display: block;
+            height: 38px;
+            line-height: 20px;
+            margin-bottom: 10px;
+            padding: 8px 6px 8px 12px;
+            width: 60px;
+            -webkit-border-radius: 3px;
+            -moz-border-radius: 3px;
+            -ms-border-radius: 3px;
+            -o-border-radius: 3px;
+        }
+        button {
+            padding: 20px 40px;
+            border-style: none;
+            border-color: #000;
+            border-radius: 0px;
+            background-color: #ac1313;
+            font-family: Poppins, sans-serif;
+            text-transform: capitalize;
+            color: #fff;
+            line-height: 22px;
+
+            &:hover {
+                background-color: #000;
+            }
+        }
+    }
+
+}

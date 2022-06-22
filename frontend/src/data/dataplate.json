@@ -1,0 +1,30 @@
+[
+    {
+         "id" : 1,
+         "src" : "assets/img/Blue Plate.png",
+         "title" : "Blue Plate",
+         "url" : "/product/Blue Plate",
+         "price" :"$ 65.00 USD" 
+     },
+     {
+         "id" : 2,
+         "src" : "assets/img/Red Platte.png",
+         "title" : "Red Platte",
+         "url" : "/product/Red Platte",
+         "price" :"$ 115.00 USD" 
+     },
+     {
+         "id" : 3,
+         "src" : "assets/img/Decor Plate.png",
+         "title" : "Decor Plate",
+         "url" : "/product/Decor Plate",
+         "price" :"$ 115.00 USD" 
+     },
+     {
+         "id" : 4,
+         "src" : "assets/img/Orange Plate.png",
+         "title" : "Orange Plate",
+         "url" : "/product/Orange Plate",
+         "price" :"$ 65.00 USD" 
+     }
+ ]

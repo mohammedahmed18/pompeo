@@ -1,0 +1,110 @@
+.collection {
+    padding: 5rem 0;
+
+    .heading {
+        text-align: center;
+        margin: 3rem 0;
+
+        h5 {
+            margin-bottom: 0px;
+            font-family: Poppins, sans-serif;
+            color: #d77474;
+            font-size: 14px;
+            line-height: 24px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        h2 {
+            font-family: Poppins, sans-serif;
+            color: #000;
+            font-size: 40px;
+            line-height: 50px;
+            font-weight: 500;
+        }
+    }
+
+    .parent {
+        padding: 0.7rem;
+
+        .child {
+            &:hover {
+                .content {
+                    border-bottom: 1px solid #ac1313;
+                }
+            }
+
+            text-decoration: none;
+
+            img {
+                width: 100%;
+
+                &:hover {
+                    transform: scale(1.02, 1.02);
+                    -webkit-transform: scale(1.02, 1.02);
+                    -moz-transform: scale(1.02, 1.02);
+                    -ms-transform: scale(1.02, 1.02);
+                    -o-transform: scale(1.02, 1.02);
+                }
+            }
+
+            .content {
+                padding: 1rem 0;
+                border-bottom: 1px solid #ebebeb;
+
+                &:hover {
+                    border-bottom: 1px solid #ac1313;
+                }
+
+                h6 {
+                    -webkit-transition: color 400ms ease;
+                    transition: color 400ms ease;
+                    color: #6c6c6c;
+                    font-size: 16px;
+                    line-height: 26px;
+                    font-weight: 400;
+                    text-decoration: none;
+                }
+
+                span {
+                    margin-top: 0px;
+                    font-family: Poppins, sans-serif;
+                    color: #000;
+                    font-size: 14px;
+                    line-height: 24px;
+                    font-weight: 600;
+                }
+            }
+
+        }
+    }
+
+    .btn {
+        text-align: center;
+        width: 100%;
+        padding-top: 3rem;
+        cursor: auto;
+
+        .link {
+            text-decoration: none;
+            margin-top: 2rem;
+            padding: 20px 40px;
+            border-color: #000;
+            background-color: #ac1313;
+            font-family: Poppins, sans-serif;
+            color: #fff;
+            line-height: 22px;
+
+            &:hover {
+                border-color: #53d7db;
+                background-color: #000;
+                -webkit-transform: translate(0px, -6px);
+                -ms-transform: translate(0px, -6px);
+                transform: translate(0px, -6px);
+                color: #fff;
+            }
+        }
+
+    }
+}

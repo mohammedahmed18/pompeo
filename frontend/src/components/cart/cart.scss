@@ -1,0 +1,61 @@
+.offcanves-btn {
+    height: 90px;
+    border-left: 1px solid #ebebeb;
+    padding-left: 0.5rem;
+    cursor: pointer;
+    color: #6c6c6c;
+    opacity: 1;
+    font-family: Poppins, sans-serif;
+    color: #6c6c6c;
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+
+    .icon {
+        display: inline-block;
+        margin-right: 10px;
+    }
+}
+
+.offcanves {
+    .offcanvas-header {
+        padding: 1rem 0;
+        background-color: red;
+        box-shadow: 0px 5px 25px 0px rgb(0 0 0 / 25%);
+        padding: 1rem;
+
+        h5 {
+            font-family: Poppins, sans-serif;
+            color: #000;
+            font-size: 15px;
+            line-height: 25px;
+            font-weight: 600;
+        }
+    }
+
+    .offcanves-body {
+        height: 70%;
+        padding: 1rem;
+    }
+
+    .offcanves-footer {
+        background-color: red;
+        height: 30%;
+        padding: 1rem;
+        span {
+            font-family: 'Libre Franklin', sans-serif;
+            color: #4d4d4d;
+        }
+        h5{
+            color: #000;
+            background-color: red;
+        }
+        .btn{
+            background-color: red;
+            color: #000;
+        }
+    }
+}

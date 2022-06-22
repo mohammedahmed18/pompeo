@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 1,
+        "src" : "assets/img/Decor Plate.png",
+        "url" : "/product",
+        "name" : "Decor Plate",
+        "price" : "$ 65.00 USD"
+    },
+    {
+        "id" : 2,
+        "src" : "assets/img/Mint Pottery.png",
+        "name" : "Mint Pottery",
+        "url" : "/product",
+        "price" : "$ 75.00 USD"
+    },
+    {
+        "id" : 3,
+        "src" : "assets/img/Set Of Potterys.png",
+        "name" : "Set Of Potterys",
+        "url" : "/product",
+        "price" : "$ 125.00 USD"
+    },
+    {
+        "id" : 4,
+        "src" : "assets/img/Orange Ceramic.png",
+        "name" : "Orange Ceramic",
+        "url" : "/product",
+        "price" : "$ 55.00 USD"
+    },
+    {
+        "id" : 5,
+        "src" : "assets/img/Dark Bowl.png",
+        "name" : "Dark Bowl",
+        "url" : "/product",
+        "price" : "$ 115.00 USD"
+    },
+    {
+        "id" : 6,
+        "src" : "assets/img/Square Pottery.png",
+        "name" : "Square Pottery",
+        "url" : "/product",
+        "price" : "$ 75.00 USD"
+    }
+]

@@ -1,0 +1,34 @@
+.offcanves-btn {
+  height: 90px;
+  border-left: 1px solid #ebebeb;
+  padding-left: 0.5rem;
+  cursor: pointer;
+  color: #6c6c6c;
+  opacity: 1;
+  font-family: Poppins, sans-serif;
+  color: #6c6c6c;
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.offcanves-btn .icon {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.offcanves .offcanvas-header {
+  padding: 1rem 0;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 1rem;
+}
+
+.offcanves .offcanves-body {
+  height: 70%;
+  padding: 1rem;
+}
+/*# sourceMappingURL=cart.css.map */

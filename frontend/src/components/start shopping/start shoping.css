@@ -1,0 +1,51 @@
+.startshopping {
+  background-image: url("../../../public/assets/img/startshopping.jpeg");
+  background-position: center center;
+  background-size: auto, cover;
+  padding: 6rem 0;
+}
+
+.startshopping h3 {
+  font-family: Poppins, sans-serif;
+  color: #d77474;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.startshopping h2 {
+  font-family: Poppins, sans-serif;
+  color: #000;
+  font-size: 40px;
+  line-height: 50px;
+  font-weight: 500;
+}
+
+.startshopping p {
+  margin-bottom: 10px;
+  font-family: 'Libre Franklin', sans-serif;
+  color: #6c6c6c;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: left;
+}
+
+.startshopping .btn {
+  margin-right: 0px;
+  padding: 20px 40px;
+  border-style: none;
+  border-color: #000;
+  border-radius: 0px;
+  background-color: #ac1313;
+  font-family: Poppins, sans-serif;
+  color: #fff;
+  line-height: 22px;
+}
+
+.startshopping .btn:hover {
+  background-color: #000;
+  color: #fff;
+}
+/*# sourceMappingURL=start shoping.css.map */

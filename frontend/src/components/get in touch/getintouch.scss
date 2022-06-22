@@ -1,0 +1,118 @@
+.getintouch {
+    padding: 3rem 2rem;
+
+    h3 {
+        font-family: Poppins, sans-serif;
+        color: #d77474;
+        font-size: 14px;
+        line-height: 24px;
+        font-weight: 400;
+        margin-bottom: 1rem;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    h2 {
+        font-family: Poppins, sans-serif;
+        color: #000;
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 500;
+        margin-bottom: 4rem;
+    }
+    h6 {
+        font-family: Poppins, sans-serif;
+        color: #000;
+        font-size: 21px;
+        line-height: 50px;
+        font-weight: 400;
+    }
+
+    span {
+        display: block;
+        margin-top: 10px;
+        line-height: 24px;
+        font-weight: 300;
+    }
+
+    .img-box {
+        width: 100%;
+        background-image: url(../../../public/assets/img/getintouch.jpeg);
+        background-position: center center;
+        background-size: cover;
+        padding: 8rem;
+    }
+
+    .form {
+        border-right: 1px solid #ebebeb;
+        padding: 1rem;
+        border-left: 1px solid #ebebeb;
+        h2 {
+            margin-bottom: 20px;
+            font-family: Poppins, sans-serif;
+            font-size: 24px;
+            line-height: 34px;
+            font-weight: 500;
+            text-align: left;
+        }
+
+        span {
+            color: #3f3f3f;
+            font-weight: 700;
+        }
+        input {
+            width: 94%;
+            height: 45px;
+            margin-bottom: 24px;
+            padding-left: 40px;
+            border: 1px solid #ebebeb;
+            background-image: url('../../../public/assets/img/Email.png');
+            border-radius: 0px;
+            background-color: hsla(0, 0%, 85.9%, 0.1);
+            background-position: 7px 48%;
+            background-size: 20px;
+            background-repeat: no-repeat;
+            font-family: 'Libre Franklin', sans-serif;
+            line-height: 23px;
+            font-weight: 400;
+        }
+        
+        textarea {
+            width: 98%;
+            min-height: 170px;
+            margin-bottom: 24px;
+            padding-left: 40px;
+            border: 1px solid #ebebeb;
+            background-color: hsla(0, 0%, 85.9%, 0.1);
+            background-image: url(https://assets.website-files.com/5ba9697…/5bb5653…_icons8-edit-80.png);
+            background-position: 8px 8px;
+            background-size: 23px;
+            background-repeat: no-repeat;
+            font-family: 'Libre Franklin', sans-serif;
+            font-size: 13px;
+            line-height: 23px;
+            font-weight: 400;
+        }
+
+        button {
+            display: block;
+            margin-right: 0px;
+            margin-left: 0px;
+            padding: 20px 40px;
+            border-color: transparent;
+            color: #fff;
+            background-color: #ac1313;
+            font-family: Poppins, sans-serif;
+            font-size: 12px;
+            line-height: 30px;
+            font-weight: 400;
+            text-align: center;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+
+            &:hover {
+                background-color: orangered;
+            }
+        }
+    }
+}

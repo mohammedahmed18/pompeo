@@ -1,0 +1,94 @@
+[
+   {
+        "id" : 1,
+        "src" : "assets/img/White Potterys.png",
+        "title" : "White Potterys",
+        "url" : "/product/White Potterys",
+        "price" :"$ 115.00 USD" 
+    },
+    {
+        "id" : 2,
+        "src" : "assets/img/Wine Pottery.png",
+        "title" : "Wine Pottery",
+        "url" : "/product/Wine Pottery",
+        "price" :"$ 95.00 USD" 
+    },
+    {
+        "id" : 3,
+        "src" : "assets/img/Mint Pottery.png",
+        "title" : "Mint Pottery",
+        "url" : "/product/Mint Pottery",
+        "price" :"$ 75.00 USD" 
+    },
+    {
+        "id" : 4,
+        "src" : "assets/img/Wine Bowl.png",
+        "title" : "Wine Bowl",
+        "url" : "/product/Wine Bowl",
+        "price" :"$ 115.00 USD" 
+    },
+    {
+        "id" : 5,
+        "src" : "assets/img/Set Of Potterys.png",
+        "title" : "Set Of Potterys",
+        "url" : "/product/Set Of Potterys",
+        "price" :"$ 125.00 USD" 
+    },
+    {
+        "id" : 6,
+        "src" : "assets/img/Orange Ceramic.png",
+        "title" : "Orange Ceramic",
+        "url" : "/product/Orange Ceramic",
+        "price" :"$ 55.00 USD" 
+    },
+    {
+        "id" : 7,
+        "src" : "assets/img/Dark Bowl.png",
+        "title" : "Dark Bowl",
+        "url" : "/product/Dark Bowl",
+        "price" :"$ 115.00 USD" 
+    },
+    {
+        "id" : 8,
+        "src" : "assets/img/Square Pottery.png",
+        "title" : "Square Pottery",
+        "url" : "/product/Square Pottery",
+        "price" :"$ 75.00 USD" 
+    },
+    {
+        "id" : 9,
+        "src" : "assets/img/Black Pottery.png",
+        "title" : "Black Pottery",
+        "url" : "/product/Black Pottery",
+        "price" :"$ 115.00 USD" 
+    },
+    {
+        "id" : 10,
+        "src" : "assets/img/Silver pottery.png",
+        "title" : "Silver pottery",
+        "url" : "/product/Silver pottery",
+        "price" :"$ 100.00 USD" 
+    },
+    {
+        "id" : 11,
+        "src" : "assets/img/Mint Bowl.png",
+        "title" : "Mint Bowl",
+        "url" : "/product/Mint Bowl",
+        "price" :"$ 150.00 USD" 
+    },
+    {
+        "id" : 12,
+        "src" : "assets/img/Gold & Black Pottery.png",
+        "title" : "Gold & Black Pottery",
+        "url" : "/product/Gold & Black Pottery",
+        "price" :"$ 95.00 USD" 
+    },
+    {
+        "id" : 13,
+        "src" : "assets/img/Red Ceramic.png",
+        "title" : "Red Ceramic",
+        "url" : "/product/Red Ceramic",
+        "price" :"$ 45.00 USD" 
+    }
+
+]   

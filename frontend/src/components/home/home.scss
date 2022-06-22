@@ -1,0 +1,61 @@
+.home{
+    padding: 1rem 0 3rem 0;
+    background-image: url("../../../public/assets/img/home\ background.jpg");
+    background-position: center;
+    background-size: cover;
+    .home-content{
+        padding: 3rem 0;
+        h5{
+
+            font-family: Poppins, sans-serif;
+            color: #d77474;
+            font-size: 14px;
+            line-height: 24px;
+            font-weight: 400;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+        h1{
+            font-family: Poppins, sans-serif;
+            color: #000;
+            font-size: 48px;
+            line-height: 58px;
+            font-weight: 500;
+        }
+        h6{ 
+            margin-bottom: 1rem;
+            font-family: 'Libre Franklin', sans-serif;
+            color: #6c6c6c;
+            font-size: 14px;
+            line-height: 24px;
+        }
+        span{
+            position: relative;
+            font-family: 'Playfair Display', sans-serif;
+            color: #ac1313;
+            font-size: 68px;
+            line-height: 68px;
+            font-weight: 400;
+        }
+        .btn{
+            margin-right: 0px;
+            padding: 20px 40px;
+            border-style: none;
+            border-color: #000;
+            border-radius: 0px;
+            background-color: #ac1313;
+            font-family: Poppins, sans-serif;
+            color: #fff;
+            line-height: 22px;
+            &:hover{
+                border-style: none;
+                border-color: #53d7db;
+                background-color: #000;
+                -webkit-transform: translate(0px, -6px);
+                -ms-transform: translate(0px, -6px);
+                transform: translate(0px, -6px);
+                color: #fff; 
+            }
+        }
+    }
+}
